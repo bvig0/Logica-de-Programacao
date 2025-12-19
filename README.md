@@ -39,6 +39,7 @@ A proposta é resolver os **mesmos tipos de problemas lógicos** em linguagens d
 
 - VisualG
 - JavaScript
+- Python
 
 ---
 
